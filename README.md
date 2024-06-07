@@ -5,8 +5,8 @@ I am an AI developer with a solid background in Telecommunications and Networks.
 ## Experience
 
 - **💻 AI Developer**
-  - Development and optimization of artificial intelligence algorithms to enhance the efficiency of telecommunications networks.
-  - Implementation of machine learning and deep learning solutions for automation and data analysis in networks.
+  - Development and optimization of artificial intelligence algorithms.
+  - Implementation of machine learning and deep learning solutions for automation and data analysis.
 
 - **🌐 Telecommunications and Networks Specialist**
   - Design, implementation, and maintenance of network infrastructures.
