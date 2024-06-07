@@ -16,6 +16,9 @@ I am an AI developer with a solid background in Telecommunications and Enterpris
   - Negotiating and managing contracts with telecom service providers.
   - Developing strategic partnerships and business opportunities in the telecommunications industry.
   - Leading sales and marketing efforts to promote telecom products and services.
+ 
+  ## Programming Languages
+- **Python**
 
 ## Contact
 
