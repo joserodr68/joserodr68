@@ -1,6 +1,6 @@
 # José Antonio Rodríguez
 
-I am an AI developer with a solid background in Telecommunications and Networking. Throughout my career, I have worked on various projects with telecommunications technologies, allowing me to develop innovative and efficient solutions. My passion for technology and problem-solving has led me to specialize in the field of AI, where I continue to learn and apply new techniques to improve connectivity and communication.
+I am an AI developer with a solid background in Telecommunications and Enterprise Networks. Throughout my career, I have worked on various projects with telecommunications technologies, allowing me to develop innovative and efficient solutions. My passion for technology and problem-solving has led me to specialize in the field of AI, where I continue to learn and apply new techniques to improve connectivity and communication.
 
 ## Experience
 
